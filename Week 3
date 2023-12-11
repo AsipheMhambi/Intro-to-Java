@@ -1,0 +1,44 @@
+#SDLC Overview and Introduction
+The Software Development Life Cycle (SDLC) is a systematic process used in the development, deployment, and maintenance of software applications. It consists of several distinct phases:
+Planning: Define project scope, objectives, and resources.
+Feasibility Study: Assess technical, operational, and financial feasibility.
+System Design: Develop a blueprint of the software system.
+Implementation (Coding): Transform the design into actual code.
+Testing: Verify that the software meets specified requirements and is defect-free.
+Deployment: Release the software for end-user use.
+Maintenance and Support: Ensure ongoing reliability and performance through updates and bug fixes.
+
+##Popular SDLC models
+Software Development Life Cycle (SDLC) models are employed in the software industry to guide the development, deployment, and maintenance of software.
+Some popular models include:
+Waterfall Model: Sequential and linear; suitable for projects with stable requirements.
+Iterative Model: Involves repetitive cycles, allowing for flexibility and adjustments.
+Agile Model: Emphasizes flexibility, collaboration, and customer feedback throughout development.
+Spiral Model: Integrates risk assessment and management, suitable for large and high-risk projects.
+V-Model (Verification and Validation): Extends the waterfall model with integrated testing activities.
+Big Bang Model: No specific process; suitable for small projects with evolving requirements.
+RAD Model (Rapid Application Development): Focuses on rapid prototyping and user feedback.
+
+###SDLC models
+ Software Development Life Cycle (SDLC) models provide structured approaches to guide the development of software. 
+Here are key points about popular models:
+Waterfall Model: Linear and sequential; suitable for stable requirements but less adaptable to changes.
+Iterative Model: Involves repetitive cycles, allowing continuous refinement and adaptation to changing requirements.
+Agile Model: Emphasizes collaboration, adaptability, and customer feedback; well-suited for dynamic project environments.
+Spiral Model: Integrates risk assessment and management; suitable for large and high-risk projects.
+V-Model (Verification and Validation): Extends the waterfall model, emphasizing testing and validation at each stage.
+Big Bang Model: No specific process; suitable for small projects with evolving requirements but lacks structure.
+RAD Model (Rapid Application Development): Focuses on rapid prototyping and quick user feedback, suitable for fast-paced projects.
+Incremental Model: Divides the system into small parts delivered incrementally, allowing for early delivery of essential features.
+
+####Software Prototyping in SDLC
+Software prototyping in the Software Development Life Cycle (SDLC) involves creating a simplified, working model of a system or application to gather user feedback and refine requirements before full-scale development. Key points include:
+
+Objective: Create a tangible representation of the software for user feedback and requirement refinement.
+Phases: Quick design, building the prototype, user evaluation, and refinement based on feedback.
+Types: Throwaway (Rapid) Prototyping and Evolutionary Prototyping.
+Benefits: Early user feedback, reduced risk through issue identification, improved communication.
+Challenges: Limited functionality in prototypes, potential for misunderstanding the prototype's purpose.
+When to Use: Unclear requirements, high user involvement needed, innovative or complex projects.
+Tools: Various prototyping tools, from simple sketches to specialized software.
+Integration with SDLC: Often integrated into iterative and incremental SDLC models, allowing for continuous feedback and refinement.
